@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /Bio
+---
+
 # Bio  
 I am a lead engineer for the United States Department of Defense with 10+ years of experience performing technical and cost evaluations for complex, high-value repair and spare part proposals—ranging from multi-million to billion-dollar programs. My work centers on ensuring the government receives fair and reasonable pricing while maintaining the highest standards of technical rigor and accountability.  
   
