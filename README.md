@@ -6,7 +6,7 @@ permalink: /Bio
 
 # Bio  
 
-![plot](./230906-Rosenberg_WSS Portrait-012 (1).jpg)
+![plot](/portrait.jpg)
 
 
 I am a Lead Engineer for the United States Department of Defense with over a decade of experience conducting comprehensive technical and cost evaluations for complex, high-value repair and spare part proposals, supporting programs valued from the multi-million to billion-dollar range. My work ensures the government secures fair and reasonable pricing while upholding the highest standards of technical rigor, fiscal accountability, and mission readiness.  
