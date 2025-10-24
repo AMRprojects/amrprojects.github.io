@@ -1,4 +1,7 @@
-
+---
+layout: default
+permalink: /Projects
+---
 
 **[Greenhouse Controls][Greenhouse_link]**  
 + Recreates non-linear, MIMO (2 Inputs - 2 Outputs - 3 Disturbance Inputs) greenhouse simulation from a published article in MATLAB/SIMULINK
