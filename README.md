@@ -3,7 +3,9 @@ layout: default
 permalink: /Bio
 ---
 
+
 # Bio  
+
 I am a lead engineer for the United States Department of Defense with 10+ years of experience performing technical and cost evaluations for complex, high-value repair and spare part proposals—ranging from multi-million to billion-dollar programs. My work centers on ensuring the government receives fair and reasonable pricing while maintaining the highest standards of technical rigor and accountability.  
   
 I hold a Master of Science in Electrical Engineering with a concentration in control systems and a Bachelor of Science in Mechanical Engineering, which together provide a strong foundation for the analytical and multidisciplinary nature of my work.  
@@ -12,7 +14,14 @@ I currently serve within Navy Price Fighters (NPF), a specialized organization r
   
 My professional interests include control systems, data-driven decision making, and the integration of data engineering/analysis/machine learning with traditional engineering topics.  
   
-My competencies include: Excel (advanced), MATLAB (intermediate), Simulink (intermediate), Python (intermediate), C++ (intermediate), MS Access (beginner), MySQL (beginner)  
+My competencies include:  
+Excel (advanced)  
+MATLAB (intermediate)  
+Simulink (intermediate)  
+Python (intermediate)  
+C++ (intermediate)  
+MS Access (beginner)  
+MySQL (beginner)  
 
 
 
